@@ -1,2 +1,2 @@
 # hello-world
-test
+test - weryfikacja czy coś potrafię zrobić
